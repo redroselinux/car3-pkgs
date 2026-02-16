@@ -6,5 +6,9 @@ nm
 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nm.tar.zst
 ## GPLv2
 
+nim
+- https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nim.tar.zst
+## MIT
+
 example
 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
