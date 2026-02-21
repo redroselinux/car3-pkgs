@@ -181,3 +181,193 @@ xorriso - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xorriso.
 ## GPL-3.0-or-later
 > ISO 9660 Rock Ridge Filesystem Manipulator
 version 1.5.6
+
+gmp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gmp.tar.zst
+## LGPL-3.0-or-later
+> GNU Multiple Precision Arithmetic Library
+version 6.3.0
+
+zlib - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zlib.tar.zst
+## zlib License
+> A compression/decompression Library
+version 1.3.1
+
+gettext - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gettext.tar.zst
+## GPL-3.0-or-later
+> GNU internationalization (i18n) and localization (l10n) library
+version 0.22.5
+
+texinfo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/texinfo.tar.zst
+## GPL-3.0-or-later
+> The official documentation format of the GNU project
+version 7.1
+
+flex - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/flex.tar.zst
+## BSD-2-Clause
+> A fast lexical analyzer generator
+version 2.6.4
+
+gperf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gperf.tar.zst
+## GPL-3.0-or-later
+> GNU perfect hash function generator
+version 3.1
+
+expat - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/expat.tar.zst
+## MIT
+> An XML parser library written in C
+version 2.6.2
+
+bc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bc.tar.zst
+## GPL-3.0-or-later
+> An arbitrary precision calculator language
+version 1.07.1
+
+ed - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ed.tar.zst
+## GPL-3.0-or-later
+> The standard GNU line-oriented text editor
+version 1.20.1
+
+help2man - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/help2man.tar.zst
+## GPL-3.0-or-later
+> Tool to generate simple manual pages from program output
+version 1.49.3
+
+libtool - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libtool.tar.zst
+## GPL-2.0-or-later
+> GNU generic library support script
+version 2.4.7
+
+pkg-config - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/pkg-config.tar.zst
+## GPL-2.0-or-later
+> Helper tool used when compiling applications and libraries
+version 0.29.2
+
+libidn2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libidn2.tar.zst
+## GPL-2.0-or-later
+> Implementation of Internationalized Domain Names in Applications (IDNA2008)
+version 2.3.7
+
+gnutls - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gnutls.tar.zst
+## LGPL-2.1-or-later
+> A secure communications library implementing the TLS and SSL protocols
+version 3.8.3
+
+cpio - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cpio.tar.zst
+## GPL-3.0-or-later
+> GNU cpio copies files into or out of a cpio or tar archive
+version 2.15
+
+indent - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/indent.tar.zst
+## GPL-3.0-or-later
+> A C source code formatting program
+version 2.2.13
+
+units - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/units.tar.zst
+## GPL-3.0-or-later
+> Unit conversion and calculation program
+version 2.23
+
+time - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/time.tar.zst
+## GPL-3.0-or-later
+> Utility to monitor a program's resource usage
+version 1.9
+
+sharutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sharutils.tar.zst
+## GPL-3.0-or-later
+> GNU shell archive utilities
+version 4.15.2
+
+unrtf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/unrtf.tar.zst
+## GPL-3.0-or-later
+> A Command-line program to convert RTF documents to other formats
+version 0.21.10
+
+doschars - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/doschars.tar.zst
+## GPL-2.0-or-later
+> Utilities for handling character sets of various systems
+version 1.0.3
+
+libiconv - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libiconv.tar.zst
+## LGPL-2.1-or-later
+> Character set conversion library
+version 1.17
+
+libunistring - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libunistring.tar.zst
+## LGPL-3.0-or-later
+> Library for manipulating Unicode strings
+version 1.2
+
+libpng - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpng.tar.zst
+## libpng License
+> The official PNG reference library
+version 1.6.40
+
+libjpeg-turbo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libjpeg-turbo.tar.zst
+## IJG / BSD-3-Clause
+> A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG compression
+version 3.0.1
+
+popt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/popt.tar.zst
+## MIT
+> A command-line option parsing library
+version 1.19
+
+libpipeline - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpipeline.tar.zst
+## GPL-3.0-or-later
+> A pipeline manipulation library
+version 1.5.7
+
+file - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/file.tar.zst
+## BSD-2-Clause
+> A utility that determines file types
+version 5.45
+
+attr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/attr.tar.zst
+## GPL-2.0-or-later
+> Commands for manipulating filesystem extended attributes
+version 2.5.2
+
+acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst
+## GPL-2.0-or-later
+> Access Control List utilities
+version 2.3.2
+
+libcap - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libcap.tar.zst
+## BSD-3-Clause / GPL-2.0-only
+> Library for getting and setting POSIX.1e capabilities
+version 2.70
+
+xz - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xz.tar.zst
+## Public Domain / LGPL-2.1-or-later
+> Library and CLI for LZMA compression
+version 5.6.0
+
+kmod - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/kmod.tar.zst
+## LGPL-2.1-or-later
+> Utilities for loading, inserting, and removing kernel modules
+version 32
+
+libelf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libelf.tar.zst
+## LGPL-3.0-or-later
+> Library to read and write ELF files (part of elfutils)
+version 0.191
+
+libffi - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libffi.tar.zst
+## MIT
+> A portable foreign function interface library
+version 3.4.6
+
+pcre2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/pcre2.tar.zst
+## BSD-3-Clause
+> Perl-compatible regular expression library
+version 10.43
+
+util-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux.tar.zst
+## GPL-2.0-or-later
+> Random collection of essential Linux system utilities
+version 2.40
+
+e2fsprogs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/e2fsprogs.tar.zst
+## GPL-2.0-only
+> Utilities for maintaining the ext2, ext3, and ext4 filesystems
+version 1.47.0
