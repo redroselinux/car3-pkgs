@@ -1,3 +1,7 @@
+example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
+> example package
+version 0.1
+
 libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst
 ## LGPL-2.1-or-later
 > GTK4 library providing widgets and GObjects for modern mobile-friendly applications
@@ -7,6 +11,16 @@ curl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/curl.tar.zs
 ## curl (MIT/X derivate)
 > Command line tool and library for transferring data with URLs
 version 8.18.0
+
+coreutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/coreutils.tar.zst
+## GPL-3.0-or-later
+> GNU core utilities
+version 9.10
+
+ninja - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ninja.tar.zst
+## Apache-2.0
+> a build system
+version 1.12.1
 
 i3 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/i3.tar.zst
 ## BSD-3-Clause
@@ -28,6 +42,7 @@ nm - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nm.tar.zst
 > A daemon for simplified and automated network configuration
 version 1.56.0
 
-example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
-> example package
-version 0.1
+zenity - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zenity.tar.zst
+## GPL-2.0-or-later
+> A GTK+ dialog library for displaying message boxes and input dialogs
+version 4.2.1
