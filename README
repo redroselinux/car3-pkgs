@@ -396,3 +396,8 @@ rust - https://github.com/redroselinux/car3-pkgs/releases/download/releases-stor
 ## MIT OR Apache-2.0
 > High-performance systems programming language focused on safety and concurrency
 version 1.76.0
+
+python - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/python.tar.zst
+## Python-2.0
+> Interpreted, object-oriented, high-level programming language
+version 3.12.2
