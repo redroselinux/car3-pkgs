@@ -371,3 +371,23 @@ e2fsprogs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/e2fspr
 ## GPL-2.0-only
 > Utilities for maintaining the ext2, ext3, and ext4 filesystems
 version 1.47.0
+
+procps-ng - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/procps-ng.tar.zst
+## GPL-2.0-or-later
+> System and process monitoring utilities (ps, top, free)
+version 4.0.4
+
+psmisc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/psmisc.tar.zst
+## GPL-2.0-or-later
+> Utilities for managing processes on your system (killall, fuser)
+version 23.7
+
+sysklogd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sysklogd.tar.zst
+## BSD-3-Clause
+> The standard system logging daemon
+version 2.5.2
+
+libseccomp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libseccomp.tar.zst
+## LGPL-2.1-or-later
+> High-level interface to the Linux Kernel's syscall filtering mechanism
+version 2.5.5
