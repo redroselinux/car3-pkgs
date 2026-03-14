@@ -7,6 +7,11 @@ autoconf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/autocon
 > GNU Autoconf
 version 2.72
 
+grub-all - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/grub.tar.zst
+## GPLv3
+> the gnu bootloader
+version 2.14
+
 libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst
 ## LGPL-2.1-or-later
 > GTK4 library providing widgets and GObjects for modern mobile-friendly applications
