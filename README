@@ -406,3 +406,8 @@ python - https://github.com/redroselinux/car3-pkgs/releases/download/releases-st
 ## Python-2.0
 > Interpreted, object-oriented, high-level programming language
 version 3.12.2
+
+zstd - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/zstd.tar.zst
+## GPLv2-or-later OR BSD-3-Clause
+> compression
+version 1.5.7
