@@ -411,3 +411,8 @@ zstd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zstd.tar.zs
 ## GPLv2-or-later OR BSD-3-Clause
 > compression
 version 1.5.7
+
+glib - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/glib.tar.zst
+## LGPL-2.1-or-later
+> General-purpose utility library providing data structures, portability wrappers, and core application support
+version 2.88.0
