@@ -416,3 +416,8 @@ glib - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/glib.tar.zs
 ## LGPL-2.1-or-later
 > General-purpose utility library providing data structures, portability wrappers, and core application support
 version 2.88.0
+
+newt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/newt.tar.zst
+## LGPL-2.0-only
+> Library for color text mode windowing and widget support
+version 0.52.24
