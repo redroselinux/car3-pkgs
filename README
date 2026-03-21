@@ -421,3 +421,8 @@ newt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/newt.tar.zs
 ## LGPL-2.0-only
 > Library for color text mode windowing and widget support
 version 0.52.24
+
+fastfetch - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/fastfetch.tar.zst
+## MIT
+> A fast and maintained alternative to Neofetch
+version 2.9.2
