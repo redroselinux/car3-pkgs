@@ -438,6 +438,11 @@ nss - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nss.tar.zst
 version 3.109
 
 nspr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nspr.tar.zst
-## A platform-neutral API for system-level and libc-like functions (threads, I/O, error handling).
-> MPL 2.0
+> A platform-neutral API for system-level and libc-like functions (threads, I/O, error handling).
+## MPL 2.0
 version 4.36
+
+libslang - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libslang.tar.zst
+## GPL-2.0-or-later
+> Multi-platform library for making text-based user interfaces
+version 2.3.3
