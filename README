@@ -372,6 +372,11 @@ util-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-
 > Random collection of essential Linux system utilities
 version 2.40
 
+util-linux-libs-only - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux-libs-only.tar.zst
+## GPL-2.0-or-later
+> Random collection of essential Linux system utilities (libs only)
+version 2.40
+
 e2fsprogs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/e2fsprogs.tar.zst
 ## GPL-2.0-only
 > Utilities for maintaining the ext2, ext3, and ext4 filesystems
