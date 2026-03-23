@@ -431,3 +431,8 @@ nss - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nss.tar.zst
 ## MPL 2.0
 > A set of libraries for cross-platform development of security-enabled client and server applications.
 version 3.109
+
+nspr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nspr.tar.zst
+## A platform-neutral API for system-level and libc-like functions (threads, I/O, error handling).
+> MPL 2.0
+version 4.36
