@@ -426,3 +426,8 @@ fastfetch - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/fastfe
 ## MIT
 > A fast and maintained alternative to Neofetch
 version 2.9.2
+
+nss - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nss.tar.zst
+## MPL 2.0
+> A set of libraries for cross-platform development of security-enabled client and server applications.
+version 3.109
