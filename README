@@ -62,6 +62,11 @@ zenity - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zenity.ta
 > A GTK+ dialog library for displaying message boxes and input dialogs
 version 4.2.1
 
+libdnp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libdnp.tar.zst
+## LGPL-2.1+
+> Neighbor Discovery Protocol Library
+version 1.9
+
 bash - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bash.tar.zst
 ## GPL-3.0-or-later
 > The GNU Project's shell
