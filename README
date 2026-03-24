@@ -451,3 +451,8 @@ libslang - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libslan
 ## GPL-2.0-or-later
 > Multi-platform library for making text-based user interfaces
 version 2.3.3
+
+openssl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openssl.tar.zst
+## Apache License 2.0
+> Toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
+version 3.3.0
