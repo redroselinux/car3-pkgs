@@ -461,3 +461,8 @@ openssl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openssl.
 ## Apache License 2.0
 > Toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
 version 3.3.0
+
+lz4 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/lz4.tar.zst
+## BSD‑2‑Clause
+> Extremely fast compression algorithm library
+version 1.10.0
