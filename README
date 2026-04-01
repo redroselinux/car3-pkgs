@@ -422,6 +422,11 @@ python - https://github.com/redroselinux/car3-pkgs/releases/download/releases-st
 > Interpreted, object-oriented, high-level programming language
 version 3.12.2
 
+glibc - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/glibc.tar.zst
+## LGPL-2.0-or-later
+> gnu libc
+version 2.43
+
 zstd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zstd.tar.zst
 ## GPLv2-or-later OR BSD-3-Clause
 > compression
