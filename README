@@ -32,7 +32,7 @@ coreutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/coreut
 > GNU core utilities
 version 9.10
 
-dbus - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/dbus-daemon.tar.zstň
+dbus - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/dbus-daemon.tar.zst
 ## AFL-2.1 OR GPL-2.0-or-later
 > Standard D-Bus message bus daemon for system and session services.
 version 1.14.10
