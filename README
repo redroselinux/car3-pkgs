@@ -23,7 +23,7 @@ coreutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/coreut
 version 9.10
 
 dbus - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/dbus-daemon.tar.zst
-version 1.14.10
+version 1.16.2
 
 ninja - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ninja.tar.zst
 version 1.12.1
