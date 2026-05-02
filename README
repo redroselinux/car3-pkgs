@@ -140,7 +140,7 @@ gperf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gperf.tar.
 version 3.1
 
 expat - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/expat.tar.zst
-version 2.6.2
+version 2.7.5
 
 bc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bc.tar.zst
 version 1.07.1
