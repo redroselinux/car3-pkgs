@@ -104,7 +104,7 @@ parted - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/parted.ta
 version 3.6
 
 readline - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/readline.tar.zst
-version 5.0.5
+version 8.3
 
 sed - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sed.tar.zst
 version 4.10
