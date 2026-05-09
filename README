@@ -1,8 +1,8 @@
 example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
 version 0.1
 
-news-reader - https://github.com/redroselinux/news-reader/releases/download/v0.1/news-reader.tar.zst
-version 0.1
+news-reader - https://github.com/redroselinux/news-reader/releases/download/v0.1.1/news-reader.tar.zst
+version 0.1.1
 
 nullinitrd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nullinitrd.tar.zst
 version 1.0.0
