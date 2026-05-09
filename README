@@ -7,6 +7,9 @@ version 0.1.1
 nullinitrd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nullinitrd.tar.zst
 version 1.0.0
 
+mkfstab - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/mkfstab.tar.zst
+version 0.1.0
+
 autoconf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/autoconf.tar.zst
 version 2.72
 
