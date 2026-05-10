@@ -26,7 +26,7 @@ curl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/curl.tar.zs
 version 8.18.0
 
 coreutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/coreutils.tar.zst
-version 9.10
+version 9.9
 
 dbus - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/dbus-daemon.tar.zst
 version 1.16.2
