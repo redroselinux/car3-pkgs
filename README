@@ -25,6 +25,9 @@ version 1.17.6
 curl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/curl.tar.zst
 version 8.18.0
 
+uu-coreutils - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/uu-coreutils.tar.zst
+version 0.8.0
+
 coreutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/coreutils.tar.zst
 version 9.9
 
