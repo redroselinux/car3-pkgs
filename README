@@ -1,6 +1,9 @@
 example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
 version 0.1
 
+redrose-runit - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/redrose-runit.tar.zst
+version not-yet-versioned
+
 news-reader - https://github.com/redroselinux/news-reader/releases/download/v0.1.1/news-reader.tar.zst
 version 0.1.1
 
