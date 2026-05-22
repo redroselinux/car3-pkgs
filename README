@@ -55,6 +55,9 @@ version 2.13.1
 nm - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nm.tar.zst
 version 1.56.0
 
+ireallyloverunit - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ireallyloverunit.tar.zst
+version 0.1
+
 iwd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/iwd.tar.zst
 version 3.12
 
