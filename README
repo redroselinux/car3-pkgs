@@ -1,3 +1,5 @@
+UPDATE:Standard Friday update, 29.05.2026:::No breaking changes.
+
 acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst
 version 2.3.2
 dep attr
