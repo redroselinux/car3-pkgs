@@ -214,8 +214,8 @@ version 6.6
 newt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/newt.tar.zst
 version 0.52.24
 
-news-reader - https://github.com/redroselinux/news-reader/releases/download/v0.1.1/news-reader.tar.zst
-version 0.1.1
+news-reader - https://github.com/redroselinux/news-reader/releases/download/v0.2/news-reader.tar.zst
+version 0.2
 
 ninja - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ninja.tar.zst
 version 1.12.1
