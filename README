@@ -16,6 +16,12 @@ version 5.3
 bc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bc.tar.zst
 version 1.07.1
 
+linux-stable - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst
+version 7.0.11
+
+linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst
+version 7.0.11
+
 binutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/binutils.tar.zst
 version 2.46.0
 
