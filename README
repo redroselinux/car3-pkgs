@@ -238,6 +238,9 @@ version 3.109
 nullinitrd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nullinitrd.tar.zst
 version 1.0.0
 
+nghttp2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nghttp2.tar.zst
+version 1.69.0
+
 openssl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openssl.tar.zst
 version 3.3.0
 
