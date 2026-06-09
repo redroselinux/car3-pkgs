@@ -162,7 +162,7 @@ libiconv - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libicon
 version 1.17
 
 libidn2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libidn2.tar.zst
-version 2.3.7
+version 1.43
 
 libjpeg-turbo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libjpeg-turbo.tar.zst
 version 3.0.1
