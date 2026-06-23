@@ -1,4 +1,4 @@
-UPDATE:Non-standard date minor update, 22.06.2026:::Updated nullinitrd and kmod on a non-standard date; this may happen multiple times while Redrose is in development
+UPDATE:Non-standard date minor update, 23.06.2026:::Added wireless-regdb on a non-standard date; this may happen multiple times while Redrose is in development
 
 acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst
 version 2.3.2
