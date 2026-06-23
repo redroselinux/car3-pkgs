@@ -325,6 +325,9 @@ version 2.40
 util-linux-libs-only - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux-libs-only.tar.zst
 version 2.40
 
+wireless-regdb - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/wireless-regdb.tar.zst
+version 2026.05.30
+
 wget2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/wget2.tar.zst
 version 2.2.1
 
