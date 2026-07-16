@@ -161,7 +161,7 @@ version 1.9
 libelf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libelf.tar.zst - bc69086518246c7cf252963082a79e978f70af1da9511e912f4d3a12f9cbbf99
 version 0.191
 
-libffi - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libffi.tar.zst - bc69086518246c7cf252963082a79e978f70af1da9511e912f4d3a12f9cbbf99
+libffi - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libffi.tar.zst - 094fc2007157b6aa840b4d95cdabdcf66e2380debeb4d95561e97304aebbc690
 version 3.4.6
 
 libiconv - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libiconv.tar.zst - 455dba3c6a4867fb211926d2bdb894f709623f351e65b5c2dd88217521c28ec5
@@ -352,7 +352,7 @@ version 2.23
 xorriso - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xorriso.tar.zst - fcc99ba82a3b6302d3686d1db333b03318ba59db647ead4290286b74fd83c93f
 version 1.5.6
 
-xz - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xz.tar.zst - fcc99ba82a3b6302d3686d1db333b03318ba59db647ead4290286b74fd83c93f
+xz - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xz.tar.zst - 0fa31cd7be08ac6923affc08778d8620f2b6a99605354a88e50306e8071c225e
 version 5.6.0
 
 zenity - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zenity.tar.zst - 91c62f05070fbef0e8efbf97f5523dac9b6e148511456ead477548ce883b857b
