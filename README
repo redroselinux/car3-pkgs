@@ -1,265 +1,265 @@
 UPDATE:Standard Friday update, 09.07.2026:::Added ca-certificates
 
-acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst
+acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst - 38a6a14cb1a4fc2afd50333d2e0c891b8bb7f947f02124be47b71d242b2b58ed
 version 2.3.2
 dep attr
 
-attr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/attr.tar.zst
+attr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/attr.tar.zst - ae44fe92397745fb87e980371bae791cc2b191e549c2440aaff3c05baad1e8cb
 version 2.5.2
 
-autoconf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/autoconf.tar.zst
+autoconf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/autoconf.tar.zst - e4ab8d688f0c1363f916baf177841a8c2a83357187bf9315c24b16de09fbfab0
 version 2.72
 
-bash - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bash.tar.zst
+bash - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bash.tar.zst - 192c6532c7c5ca790844af45ac47289274a4a4630de2a85316783f4cdeeade99
 version 5.3
 
-bc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bc.tar.zst
+bc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bc.tar.zst - 5c54689c235eecdc3246e8b62b30a0ed6942a1086ee3d021a771915079fad680
 version 1.07.1
 
-ca-certificates - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ca-certificates.tar.zst
+ca-certificates - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ca-certificates.tar.zst - c58e725be54be4587f5adee74ad89dad54a4fb287f203e999b32659c5445bdd8
 version Thu_May_14_03:12:02_2026_GMT
 
-linux-stable - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst
+linux-stable - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - 58c4b45c6f14fa0a01a4d972c0272c2de99b575d9ccafbed0b08bcbaba9d024b
 version 7.0.11
 
-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst
+linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - 58c4b45c6f14fa0a01a4d972c0272c2de99b575d9ccafbed0b08bcbaba9d024b 
 version 7.0.11
 
-binutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/binutils.tar.zst
+binutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/binutils.tar.zst - da54bf0202c72307a6c8ed003a21bc7501e7f792b0c38047af5da06b6b8bcca2
 version 2.46.0
 
-bison - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bison.tar.zst
+bison - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bison.tar.zst - 3c66b034b0493ecb7096da7e3bbdf84827815c43f788636ada8e3a6432e43b88
 version 3.8
 
-bool - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bool.tar.zst
+bool - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bool.tar.zst - 15e9e33ba9bd10e2121db8c198d0d9d9c02d34b5cb4671e33562417c667b2688
 version 0.2.2
 
-bzip2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bzip2.tar.zst
+bzip2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bzip2.tar.zst - 176c1cbd5e6dfe8af92e2dbf8181b361fab02a52455de8cbb9e9e4c3910a6add
 version 1.0.8
 
-cairo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cairo.tar.zst
+cairo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cairo.tar.zst - df451c1c458a88e076e5937a2c86fc8e5009adad72efaebab55aacb42bb82c97
 version 1.17.6
 
-coreutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/coreutils.tar.zst
+coreutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/coreutils.tar.zst - 51fb2fb4dd1f1af1be1b60da4edb7e3b0f73c00adb343523711ee14b6b67136b
 version 9.9
 
-cpio - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cpio.tar.zst
+cpio - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cpio.tar.zst - b299d12c6ec071e0b1ea83a67c22fe0a60e9ec40c90c299d7fceee8d299fa694
 version 2.15
 
-curl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/curl.tar.zst
+curl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/curl.tar.zst - e88d9975636f2b1e38e107c73e26c24b6154e8b9f398024fefa502ed6b138a49 
 version 8.18.0
 dep openssl
 
-dbus - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/dbus-daemon.tar.zst
+dbus - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/dbus-daemon.tar.zst - a0c8c51e5514d5f7ec0c9354221ea9c20fef50d6b5425b875bc61605ab11b5ec
 version 1.16.2
 
-diffutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/diffutils.tar.zst
+diffutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/diffutils.tar.zst - 90aefcae693b162156643ed715a425a8bde483fc8355295eaa48f81358447227 
 version 3.10
 
-doschars - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/doschars.tar.zst
+doschars - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/doschars.tar.zst - 1c32d242cd0fc3a7c7c87fb9006ce85bc81bf6e2d031448fd6cf9696d17d80f3
 version 1.0.3
 
-e2fsprogs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/e2fsprogs.tar.zst
+e2fsprogs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/e2fsprogs.tar.zst - e24c82644c537c876a9d5208d228dd46ab8c3e88688fd6753b9464d93f61506c
 version 1.47.0
 
-installer.static-e2fsprogs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/installer.static-e2fsprogs.tar.zst
+installer.static-e2fsprogs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/installer.static-e2fsprogs.tar.zst - 54ad6393fb5fedd3de3a16cf67d70486a7d1281a04e485af464f3a3358be8685
 version 1.47.0
 
-ed - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ed.tar.zst
+ed - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ed.tar.zst - 0238c6e57a4a0532dd8fef06d300c0f55ed94c0ee14891f3dbde31523b775138 
 version 1.20.1
 
-example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst
+example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst - a567d40c10305e77431c70ae2b3be57b8945d7bee0c0d05890366a696e82b7a5
 version 0.1
 
-expat - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/expat.tar.zst
+expat - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/expat.tar.zst - 709a45e0b3347677e2a1541cf1b839c5863205763f9539a19c687f22c6ad6a02 
 version 2.7.5
 
-fastfetch - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/fastfetch.tar.zst
+fastfetch - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/fastfetch.tar.zst - 1ea147424bd4d4c87e182ceacabd661854c4e1af060d989873e6338667200741 
 version 2.9.2
 
-file - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/file.tar.zst
+file - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/file.tar.zst - 7af3c8e91de3988d565e43c2aaa1cacca57095a45c2e12fae2e3a4de5689ed35
 version 5.45
 
-findutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/findutils.tar.zst
+findutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/findutils.tar.zst - 3ae23da5f0d0700b296f0fc6db9ff26c0f342f5c73d26b852a6733114cb215bc
 version 4.10.0
 
-flex - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/flex.tar.zst
+flex - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/flex.tar.zst - 6975af2f54a19b0b70d13546fd571bff3898d06d2525c7d61561b363063f0fa9
 version 2.6.4
 
-gawk - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gawk.tar.zst
+gawk - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gawk.tar.zst - 9b4d998013ec5db7d08135b22bc42e2b78783fc965bcd5659f007e386fc6295c
 version 5.3.1
 
-gcc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gcc.tar.zst
+gcc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gcc.tar.zst - ba43f0af31fcc7e6066647d8f1e5ce542f0a92856d1a589248f3153cb43d5111
 version 15.2
 
-gcc-docs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gcc-docs.tar.zst
+gcc-docs - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gcc-docs.tar.zst - d885d3aa2a66094f1ca1aa733f6e533e0a47e76b5b82c3d74337bdef95227b04 
 version 15.2
 
 gcc-libs - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/gcc-libs.tar.zst
 version 15.2
 
-gettext - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gettext.tar.zst
+gettext - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gettext.tar.zst - f38c130025d8d32a63d0174244a921e054c93fa3fb2070b0bd07f4bb4ebd11e2
 version 0.22.5
 
-glib - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/glib.tar.zst
+glib - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/glib.tar.zst - 378bca57c03b624ee814558f7dacd0c60ad5a733acf37b6850380c6f69c0a09d
 version 2.88.0
 
 glibc - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/glibc.tar.zst
 version 2.43
 
-gmp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gmp.tar.zst
+gmp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gmp.tar.zst - 41d3bc2eb2e60c5f441d7d0cfaa2d007558ea7061e7a61d30ee5aef17f693c9b
 version 6.3.0
 
-gnutls - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gnutls.tar.zst
+gnutls - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gnutls.tar.zst - 8c035a5e5b11b928ca1af8de13286a6d2c4e97d837db50d6b9a386d77d98372c
 version 3.8.3
 
-gperf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gperf.tar.zst
-version 3.1
+gperf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gperf.tar.zst - c4e5ed15b1cc98185b342532c1775e0ee7e75c5669850986a96a10a0223234a6
+version 3.1 
 
-grep - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/grep.tar.zst
+grep - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/grep.tar.zst - c39ece3a2dc1578cdeb5303cfb1be57ce9f7a3aca7de340cb58cf20bdb3fc436
 version 3.12
 
-groff - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/groff.tar.zst
+groff - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/groff.tar.zst - f6b64f2ab19537aba6f801eaba75d8e807d078997fa86ee217f62c04bede6f62
 version 1.23.0
 
-grub-all - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/grub.tar.zst
+grub-all - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/grub.tar.zst - aa8cb702106bc582430b8c230b45ce69d3973e73e102cedb6a1c29d78f876b08
 version 2.14
 
-gzip - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gzip.tar.zst
+gzip - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gzip.tar.zst - fea04e0fc8a9e2d85fc572fd270716c705e3f418a1bfb211a8f84fcc685cdf24
 version 1.13
 
-hello - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/hello.tar.zst
+hello - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/hello.tar.zst - 3e65036d96ed1d4022e8ff426c3f372ed5b764eff676a5c560e6ae6c6c43d84b
 version 2.12
 
-help2man - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/help2man.tar.zst
+help2man - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/help2man.tar.zst - d3d14b2ce61760f61fd5e22f4404be0b12d9c1700917c824c516067052e486ec
 version 1.49.3
 
-i3 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/i3.tar.zst
+i3 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/i3.tar.zst - a48bc9ba36630c4eb8a539803a34a04998a04d4f252977b33bff6b897ca7d302
 version 4.25.1
 
-indent - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/indent.tar.zst
+indent - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/indent.tar.zst - 1d1ba064fa2fb04501406d9cd1008ea29d326ccc4691974ddfea3ed0d9d87295
 version 2.2.13
 
-ireallyloverunit - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ireallyloverunit.tar.zst
+ireallyloverunit - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ireallyloverunit.tar.zst - 982b7f1f9f0743192e1fd4cc81f7c80ee204882f36963bf1d95347b0b7c69cd5
 version 0.1
 
-iwd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/iwd.tar.zst
+iwd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/iwd.tar.zst - 1ec617ee0a6cdbb6ce2d2f286c11a4aa56f34d9ca51d01180e0af643bdb2117b
 version 3.12
 
-kmod - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/kmod.tar.zst
+kmod - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/kmod.tar.zst - 35719ac3336679073f00d9b8465e89da60f5c1d87b717853fd060c1431b0e876
 version 34
 
-libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst
+libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst - 95a766e489c5ce9692dee721921eafc25ec41b32ffad151a6486b165b064a736
 version 1.5.3
 
-libcap - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libcap.tar.zst
+libcap - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libcap.tar.zst - b1bd57175ca62044ed77e041b0c772d80406dcdb416d4b6212aaf3aaa47b12e2
 version 2.70
 
-libdnp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libdnp.tar.zst
+libdnp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libdnp.tar.zst - 3a985f284ec139eee53692c2b3a3f4c8db9908d84fb077a6c49fe5b69445a468
 version 1.9
 
-libelf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libelf.tar.zst
+libelf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libelf.tar.zst - bc69086518246c7cf252963082a79e978f70af1da9511e912f4d3a12f9cbbf99
 version 0.191
 
-libffi - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libffi.tar.zst
+libffi - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libffi.tar.zst - bc69086518246c7cf252963082a79e978f70af1da9511e912f4d3a12f9cbbf99
 version 3.4.6
 
-libiconv - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libiconv.tar.zst
+libiconv - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libiconv.tar.zst - 455dba3c6a4867fb211926d2bdb894f709623f351e65b5c2dd88217521c28ec5
 version 1.17
 
-libidn2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libidn2.tar.zst
+libidn2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libidn2.tar.zst - 155733f30f6c91db3e9c1b855a2e29419dd28056e77a4e0c3644ceac40d4f15f
 version 2.3.7
 
-libidn - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libidn.tar.zst
+libidn - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libidn.tar.zst - ae2763faeaea2c5802485dd3d393124d0c2cacbf271e6dff456c0c2e52fcce58
 version 1.43
 
-libjpeg-turbo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libjpeg-turbo.tar.zst
+libjpeg-turbo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libjpeg-turbo.tar.zst - d2c827e3f8e4028bed5a30f20add3f1afa53cbb07dc98e8ffaaa3d771bf3d168
 version 3.0.1
 dep cmake
 
-libnl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libnl.tar.zst
+libnl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libnl.tar.zst - 8474df066e59863f0f5d9ee4b1cde3f27d3436305c44bd5f1d503bee87002bd1
 version 3.12.0
 
-libpam - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpam.tar.zst
+libpam - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpam.tar.zst - a1d95c7e5d4dd43ae6df0403a93462e5bbf6878c955ee93db294cfb52b3b3960
 version 1.7.2
 
-libpipeline - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpipeline.tar.zst
+libpipeline - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpipeline.tar.zst - 52e8da4702d7f6de7f8789d40ab57b30863c43427d22769a15dce53730c56768
 version 1.5.7
 
-libpng - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpng.tar.zst
+libpng - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpng.tar.zst - 9cf1e8d17cc5251c08e4fcd05021f3a9edb02db066dacb3a668aa79c706ebbe7
 version 1.6.40
 dep zlib
 
-libseccomp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libseccomp.tar.zst
+libseccomp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libseccomp.tar.zst - 0cff11763dff0371372e8167690c36b40e0836068569c97d6ccafec0222ec859
 version 2.5.5
 
-libsigsegv - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libsigsegv.tar.zst
+libsigsegv - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libsigsegv.tar.zst - d36f9a15b56edb87c45cf7cad5a4e21464de9a98bc619accb2a318a5acc2f480
 version 2.15
 
-libslang - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libslang.tar.zst
+libslang - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libslang.tar.zst - a09013ca692b883e605395f35e6e7b815aefd0915d36fad0f1ec7944cebd7c58
 version 2.3.3
 
-libtool - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libtool.tar.zst
+libtool - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libtool.tar.zst - 3ae8544c6bef762399b81dd859e1e1f9e2307f4daad6bc69ff0b2e8fa50c8135 
 version 2.4.7
 
-libunistring - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libunistring.tar.zst
+libunistring - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libunistring.tar.zst - e5930a9d1010fca275bc76101a46824e9f5cc606cf6620a2ec789780dd453e62
 version 1.2
 
-lz4 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/lz4.tar.zst
+lz4 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/lz4.tar.zst - 3b939b29d8f1fd81e3441b6b743d6b4e33b17c6b15160bad1da8451372a62217
 version 1.10.0
 
-make - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/make.tar.zst
+make - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/make.tar.zst - b9987d4f5a273560880e76565c8413477953471cc12fcd49e747237fd5598dd4
 version 4.4.1
 
-man - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/man.tar.zst
+man - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/man.tar.zst - bfe5c6148a3e4a4b56a24b59158ca17afdea68d6a283bd741ecab2692d3d5e43
 version 2.13.1
 
-mkfstab - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/mkfstab.tar.zst
+mkfstab - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/mkfstab.tar.zst - 58dccdd867063a00a4d09a36ed251abef84a186d63ac21ca8fe58c6602904196
 version 1.0
 
-mpc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/mpc.tar.zst
+mpc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/mpc.tar.zst - 3d81610403db0b58d2d4f26e7896e7ad734c45845ba585f23644d0dc83edd98c
 version 1.3.1
 
-mpfr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/mpfr.tar.zst
+mpfr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/mpfr.tar.zst - f5f02ee918ae8bede0fafd00868f3faad786744378254e6b83c75085258ee996
 version 4.2.2
 
-nano - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nano.tar.zst
+nano - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nano.tar.zst - 961292740f45bde9dfe75b7a06f989e30a58801b4235ab0c59cfbd4a0fae7cb8
 version 8.7
 
-ncurses - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ncurses.tar.zst
+ncurses - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ncurses.tar.zst - fa0e0f7828c68b2d6d7452a0b82dfb853e8185dbba1e2174d20e33f0e59e0d01
 version 6.6
 
-newt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/newt.tar.zst
+newt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/newt.tar.zst - 0c8411e2ae52615ac4d2e9fc076a1cfceccb140c56b8f81df2328f06952b93a5
 version 0.52.24
 
 news-reader - https://github.com/redroselinux/news-reader/releases/download/v0.2/news-reader.tar.zst
 version 0.2
 
-ninja - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ninja.tar.zst
+ninja - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ninja.tar.zst - 538151f93d9e5bbaf69916ab90fd6dc06ddecff71ca6ef0c9a6531ac65a383e4
 version 1.12.1
 
-nm - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nm.tar.zst
+nm - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nm.tar.zst - 70fcd28609aeb55abf23240a55f7c1fe39bce1799a8746b24415d5434ded2775
 version 1.56.0
 
-nspr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nspr.tar.zst
+nspr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nspr.tar.zst - cae89b9d35529f33426617d64469f7bb9a946e8893b70e26f6ee8994645ccc11
 version 4.36
 
-nss - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nss.tar.zst
+nss - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nss.tar.zst - dcf5feaf46225c25fc2a191fd4d062f1e54cb74913600e4d8cf245233f8180d7
 version 3.109
 
-nullinitrd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nullinitrd.tar.zst
+nullinitrd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nullinitrd.tar.zst - 6e335f65f639dcaf49371b708a21172717148124db688218fce4d72a065526ac
 version 1.1
 
 nghttp2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nghttp2.tar.zst
 version 1.69.0
 
-openssl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openssl.tar.zst
+openssl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openssl.tar.zst - f71f9d924b764434bbcd9077c5d6340fb3705ee5190fad680d757396f8ccd1e1
 version 3.3.0
 
-openldap - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openldap.tar.zst
+openldap - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openldap.tar.zst - 2229a3c0b2ee1fe8253a9d053574c1271eeba1061936178612f5301d7d37fa91
 version 2.6.9
 
-parted - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/parted.tar.zst
+parted - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/parted.tar.zst - edc35f9c3d87dcc75e15a1154b084897691e62c44a1a3d853105be654c69b6c3
 version 3.6
 
 pcre2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/pcre2.tar.zst
@@ -268,13 +268,13 @@ version 10.43
 pkg-config - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/pkg-config.tar.zst
 version 0.29.2
 
-popt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/popt.tar.zst
+popt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/popt.tar.zst - 36c0c1e8f9bfe3a1bb73fbd9e22263c89b5937d66aaf8c8bdf236cfed97c777a
 version 1.19
 
-procps-ng - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/procps-ng.tar.zst
+procps-ng - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/procps-ng.tar.zst - a263ec64f733fbea06f48261e21ef69923eaef8b037cc377ccb7843a25442ce9
 version 4.0.4
 
-psmisc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/psmisc.tar.zst
+psmisc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/psmisc.tar.zst - 822e52e1241b713ca216da9d80a46e122c4e5c654c8a3079420da5c3e49e2b1e
 version 23.7
 
 python - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/python.tar.zst
@@ -289,37 +289,37 @@ dep xz
 dep ncurses
 dep glibc
 
-readline - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/readline.tar.zst
+readline - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/readline.tar.zst - fd7ae50896fa77a134db06b929a5ec478bb73d51c467f88eec66491022fcf93a
 version 8.3
 
-redrose-runit - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/redrose-runit.tar.zst
+redrose-runit - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/redrose-runit.tar.zst - 95bad8f7e30ded2a9151fc2ee4d0b17e91984a3bdacee404b4eb4e3812c32b0f
 version not-yet-versioned
 
 rust - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/rust.tar.zst
 version 1.76.0
 
-sed - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sed.tar.zst
+sed - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sed.tar.zst - 6cdac550c67baa7fbc49909ca84d486ff04b0053d014c035f775213b947c1414
 version 4.10
 
-sharutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sharutils.tar.zst
+sharutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sharutils.tar.zst - 50bfb13ee77044dba71efb143d58ef6d358373233ea03d5deca4561a7ca18e5d
 version 4.15.2
 
-sysklogd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sysklogd.tar.zst
+sysklogd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sysklogd.tar.zst - 3de51b59899a30201107b406472bf1d0720eeb8854646c77a3c51420a54d0141
 version 2.5.2
 
-tack - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/tack.tar.zst
+tack - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/tack.tar.zst - 814814a4c0c1a4a5b43368709ca545d899c187f99e33cfdda071f5c1e1543b79
 version 1.10
 
-tar - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/tar.tar.zst
+tar - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/tar.tar.zst - d030bb1ede4f965319d6260689f55feea1b2535996c4a41c11832c39fafdc45d
 version 1.35
 
-terminus-font - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/terminus-font.tar.zst
+terminus-font - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/terminus-font.tar.zst - 6bc9332870926311bffd629193d09e9ac472be385feab6f3af10ed4e381a6bcd
 version 4.49.1
 
-texinfo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/texinfo.tar.zst
+texinfo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/texinfo.tar.zst - 33838409be24234e0636b83e8b3229ee5792b5d1c7878a1ceb78d168ba7641d1
 version 7.1
 
-time - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/time.tar.zst
+time - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/time.tar.zst - 42e9d6cfbcaef7a27e0ffafc3696edd5d680e1403660b2edc771e776efcf29ce 
 version 1.9
 
 uu-coreutils - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/uu-coreutils.tar.zst
@@ -328,38 +328,38 @@ version 0.8.0
 uu-findutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/uu-findutils.tar.zst
 version 0.8.0
 
-units - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/units.tar.zst
+units - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/units.tar.zst - 3164c4513d0a48506c215d9467f0349c2264ca2c1eabe8c233857524183196bc
 version 2.23
 
-unrtf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/unrtf.tar.zst
+unrtf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/unrtf.tar.zst - 29aa01ffe1b589fbecc18f259559dc7b6f403018b9441301144f4a476ee61791 
 version 0.21.10
 
-util-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux.tar.zst
+util-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux.tar.zst - acff35f42858aa7d727017c3008f4bb10b8a2e3474488a515af9049f9dfb4906
 version 2.40
 
-util-linux-libs-only - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux-libs-only.tar.zst
+util-linux-libs-only - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux-libs-only.tar.zst - 18e5048159bf3a9b3735a7f485e1bd83b3847a8d16560709a83762c7a0d988fc
 version 2.40
 
-wireless-regdb - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/wireless-regdb.tar.zst
+wireless-regdb - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/wireless-regdb.tar.zst - 7206f1366ee965f852bd84286b3230caae629936c3163be3f542c93f9b1e6f59
 version 2026.05.30
 
-wget2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/wget2.tar.zst
+wget2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/wget2.tar.zst - d74946e26c9fb20bde7b8eb34b171d7ee6a13db57847fc95127b848d0970f140
 version 2.2.1
 
-which - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/which.tar.zst
+which - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/which.tar.zst - 3dd94429ef5aeed49b6972d280ca83608d135284806ceee932e2b555953ec98e
 version 2.23
 
-xorriso - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xorriso.tar.zst
+xorriso - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xorriso.tar.zst - fcc99ba82a3b6302d3686d1db333b03318ba59db647ead4290286b74fd83c93f
 version 1.5.6
 
-xz - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xz.tar.zst
+xz - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/xz.tar.zst - fcc99ba82a3b6302d3686d1db333b03318ba59db647ead4290286b74fd83c93f
 version 5.6.0
 
-zenity - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zenity.tar.zst
+zenity - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zenity.tar.zst - 91c62f05070fbef0e8efbf97f5523dac9b6e148511456ead477548ce883b857b
 version 4.2.1
 
-zlib - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zlib.tar.zst
+zlib - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zlib.tar.zst - 908e1fa1d296bf328edd419b0c7eac848c785927eb9e2c197fdf2ae6711719a3
 version 1.3.1
 
-zstd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zstd.tar.zst
+zstd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/zstd.tar.zst - e017b19ce2d9190ce6de806c6740088f9c42f7adcd8960c8480cf8583c9433f8
 version 1.5.7
