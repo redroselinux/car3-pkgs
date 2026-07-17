@@ -149,6 +149,9 @@ version 3.12
 kmod - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/kmod.tar.zst - 35719ac3336679073f00d9b8465e89da60f5c1d87b717853fd060c1431b0e876
 version 34
 
+less - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/less.tar.zst - 5f4d70bea890f50f82f31a23d300ddb994b677a09f73404a19047be363fa9ed5
+version 704
+
 libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst - 95a766e489c5ce9692dee721921eafc25ec41b32ffad151a6486b165b064a736
 version 1.5.3
 
