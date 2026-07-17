@@ -196,6 +196,9 @@ libpng - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpng.ta
 version 1.6.40
 dep zlib
 
+libpsl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpsl.tar.zst - b8a5009de5b3028f1b56005efea8b9a941a2b11e58ee659cfa85b8bde4962ec0
+version 0.23.0
+
 libseccomp - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libseccomp.tar.zst - 0cff11763dff0371372e8167690c36b40e0836068569c97d6ccafec0222ec859
 version 2.5.5
 
