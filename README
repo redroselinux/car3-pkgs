@@ -183,6 +183,9 @@ dep cmake
 libnl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libnl.tar.zst - 8474df066e59863f0f5d9ee4b1cde3f27d3436305c44bd5f1d503bee87002bd1
 version 3.12.0
 
+libmicrohttpd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libmicrohttpd.tar.zst - 88188fb00ceb9040ea01df65f5663883938013c11b7d221e3b373e77a72a35b1
+version 1.0.6
+
 libpam - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libpam.tar.zst - a1d95c7e5d4dd43ae6df0403a93462e5bbf6878c955ee93db294cfb52b3b3960
 version 1.7.2
 
