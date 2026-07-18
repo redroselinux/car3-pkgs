@@ -56,6 +56,9 @@ curl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/curl.tar.zs
 version 8.18.0
 dep openssl
 
+cyrus-sasl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cyrus-sasl.tar.zst - f92142f93cc8b7779e7f0cdf284466640870246e3f79769d97a4000c09c0a189
+version 2.1.28
+
 dbus - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/dbus-daemon.tar.zst - a0c8c51e5514d5f7ec0c9354221ea9c20fef50d6b5425b875bc61605ab11b5ec
 version 1.16.2
 
