@@ -16,6 +16,9 @@ version 5.3
 bc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bc.tar.zst - 5c54689c235eecdc3246e8b62b30a0ed6942a1086ee3d021a771915079fad680
 version 1.07.1
 
+brotli - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/brotli.tar.zst - 9d64e97d1a2ea55b963bcb97890964c30d809348e94b2ecaa2053564a191efee
+version 1.2.0
+
 ca-certificates - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ca-certificates.tar.zst - c58e725be54be4587f5adee74ad89dad54a4fb287f203e999b32659c5445bdd8
 version Thu_May_14_03:12:02_2026_GMT
 
