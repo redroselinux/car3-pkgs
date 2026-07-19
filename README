@@ -83,8 +83,8 @@ version 0.1
 expat - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/expat.tar.zst - 709a45e0b3347677e2a1541cf1b839c5863205763f9539a19c687f22c6ad6a02 
 version 2.7.5
 
-fastfetch - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/fastfetch.tar.zst - 1ea147424bd4d4c87e182ceacabd661854c4e1af060d989873e6338667200741 
-version 2.9.2
+fastfetch - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/fastfetch.tar.zst - ee34e74c447c42fe875d53dd2d4515a4363bff01a66dae94da48d46b357b14dc
+version 2.66.0
 
 file - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/file.tar.zst - 7af3c8e91de3988d565e43c2aaa1cacca57095a45c2e12fae2e3a4de5689ed35
 version 5.45
