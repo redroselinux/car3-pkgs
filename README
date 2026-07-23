@@ -80,8 +80,8 @@ version 1.20.1
 example - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/example.tar.zst - a567d40c10305e77431c70ae2b3be57b8945d7bee0c0d05890366a696e82b7a5
 version 0.1
 
-expat - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/expat.tar.zst - 709a45e0b3347677e2a1541cf1b839c5863205763f9539a19c687f22c6ad6a02 
-version 2.7.5
+expat - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/expat.tar.zst - 8f7b93d52b6ef59d071d62e0a20209f9481cae76458c0535f9ebb78ffe915e1e
+version 2.8.2
 
 fastfetch - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/fastfetch.tar.zst - ee34e74c447c42fe875d53dd2d4515a4363bff01a66dae94da48d46b357b14dc
 version 2.66.0
