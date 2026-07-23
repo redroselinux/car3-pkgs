@@ -47,7 +47,7 @@ cairo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cairo.tar.
 version 1.17.6
 
 coreutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/coreutils.tar.zst - 2db2487e429dc97ca41fec841a83a23e4322fe5117115de4ff4d770cde3c8ea9
-version 9.9
+version 9.11
 
 cpio - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/cpio.tar.zst - b299d12c6ec071e0b1ea83a67c22fe0a60e9ec40c90c299d7fceee8d299fa694
 version 2.15
