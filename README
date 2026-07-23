@@ -7,8 +7,8 @@ dep attr
 attr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/attr.tar.zst - ae44fe92397745fb87e980371bae791cc2b191e549c2440aaff3c05baad1e8cb
 version 2.5.2
 
-autoconf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/autoconf.tar.zst - e4ab8d688f0c1363f916baf177841a8c2a83357187bf9315c24b16de09fbfab0
-version 2.72
+autoconf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/autoconf.tar.zst - 57eff745e575b5faf4453cef5e2e082366ce069197f93a39c2ea784c84ddfb58 
+version 2.73
 
 bash - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bash.tar.zst - 192c6532c7c5ca790844af45ac47289274a4a4630de2a85316783f4cdeeade99
 version 5.3
