@@ -31,8 +31,8 @@ version 7.1.4
 linux-headers - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-headers.tar.zst - 89f7a38d47a462cff5f9ee2b6698081ac2b886e1fdea8282333d1b6474e8ecac
 version 7.1.4
 
-binutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/binutils.tar.zst - da54bf0202c72307a6c8ed003a21bc7501e7f792b0c38047af5da06b6b8bcca2
-version 2.46.0
+binutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/binutils.tar.zst - c3e91337c2ec8189f080d7d3dd96f4c7422d3bb0d00f54af60d1ba02c9759fa2
+version 2.46.1
 
 bison - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bison.tar.zst - 3c66b034b0493ecb7096da7e3bbdf84827815c43f788636ada8e3a6432e43b88
 version 3.8
