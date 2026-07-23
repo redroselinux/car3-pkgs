@@ -13,8 +13,8 @@ version 2.73
 bash - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bash.tar.zst - 192c6532c7c5ca790844af45ac47289274a4a4630de2a85316783f4cdeeade99
 version 5.3
 
-bc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bc.tar.zst - 5c54689c235eecdc3246e8b62b30a0ed6942a1086ee3d021a771915079fad680
-version 1.07.1
+bc - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/bc.tar.zst - db7af745096f0ea182436967991db7efeb216e9939af472a4ddf7ae25aed3ca1
+version 1.08.2
 
 brotli - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/brotli.tar.zst - 9d64e97d1a2ea55b963bcb97890964c30d809348e94b2ecaa2053564a191efee
 version 1.2.0
