@@ -271,8 +271,8 @@ version 1.1
 nghttp2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nghttp2.tar.zst
 version 1.69.0
 
-openssl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openssl.tar.zst - f71f9d924b764434bbcd9077c5d6340fb3705ee5190fad680d757396f8ccd1e1
-version 3.3.0
+openssl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openssl.tar.zst - cdc0c0c055b2bfb9478249165d6e98a00bb80d81e09cda41b4b18298fca8ffce
+version 4.0.1
 
 openldap - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/openldap.tar.zst - 2229a3c0b2ee1fe8253a9d053574c1271eeba1061936178612f5301d7d37fa91
 version 2.6.9
