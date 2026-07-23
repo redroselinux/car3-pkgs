@@ -241,8 +241,8 @@ version 1.3.1
 mpfr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/mpfr.tar.zst - f5f02ee918ae8bede0fafd00868f3faad786744378254e6b83c75085258ee996
 version 4.2.2
 
-nano - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nano.tar.zst - 961292740f45bde9dfe75b7a06f989e30a58801b4235ab0c59cfbd4a0fae7cb8
-version 8.7
+nano - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nano.tar.zst - 6fc95c6b3c53a854402eceba8bdaa985ea57a8bb28f9f3ca8ab8641e8ae2dbc5
+version 9.1
 
 ncurses - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ncurses.tar.zst - afedd7a9f62fb774160cc33b39a611ff6aee4652823a28547cfe3939f35be13c 
 version 6.6
