@@ -1,4 +1,4 @@
-UPDATE:Standard update, 24.07.2026:::Some minor package updates and additions
+UPDATE:DO NOT RUN THIS UPDATE, IT IS BROKEN!:::DONT START THE UPDATE
 
 acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst - 81711c7df77d9bb20e2fcd1a46e33f91c29679708340648f4a9232aa564541c3
 version 2.4.0
