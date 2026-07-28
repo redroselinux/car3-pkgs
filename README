@@ -1,4 +1,4 @@
-UPDATE:Standard update, 24.7.2026:::Package updates
+UPDATE:Non-standard security patch update, 28.7.2026:::Fix CVE-2026-64531
 
 acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst - 81711c7df77d9bb20e2fcd1a46e33f91c29679708340648f4a9232aa564541c3
 version 2.4.0
@@ -22,14 +22,14 @@ version 1.2.0
 ca-certificates - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ca-certificates.tar.zst - c58e725be54be4587f5adee74ad89dad54a4fb287f203e999b32659c5445bdd8
 version Thu_May_14_03:12:02_2026_GMT
 
-linux-stable - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - f3951fd9417dfdf851c31fab00bb4d59b13b5f1a5e7273ca4b8277465a013c50
-version 7.1.4
+linux-stable - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - 23805ab7c67d5363674f6e82ca3a9451401cfc6950532170f46e16fabca291a0  
+version 7.1.5
 
-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - f3951fd9417dfdf851c31fab00bb4d59b13b5f1a5e7273ca4b8277465a013c50
-version 7.1.4
+linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - 23805ab7c67d5363674f6e82ca3a9451401cfc6950532170f46e16fabca291a0  
+version 7.1.5
 
-linux-headers - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-headers.tar.zst - 89f7a38d47a462cff5f9ee2b6698081ac2b886e1fdea8282333d1b6474e8ecac
-version 7.1.4
+linux-headers - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-headers.tar.zst - 254669a5584b1e6ddd9f45d7c58e2e7d48fcc513496cb50252e3d74205e4ae79
+version 7.1.5
 
 binutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/binutils.tar.zst - c3e91337c2ec8189f080d7d3dd96f4c7422d3bb0d00f54af60d1ba02c9759fa2
 version 2.46.1
