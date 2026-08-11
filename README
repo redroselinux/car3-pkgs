@@ -6,8 +6,8 @@ acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst 
 version 2.4.0
 dep attr
 
-ancestor - https://github.com/redroselinux/ancestor/releases/download/latest/ancestor.tar.zst - 69c5e41fdf00be0e0cd912fc20e9e81b9f8631d030076a0494053432b8a605fc
-version 0.1
+ancestor - https://github.com/redroselinux/ancestor/releases/download/latest/ancestor.tar.zst - ed0771a0a2bcd4c44b0c7de5a0cf7c15ee7f583189bd6854db62a602e5ed3a79
+version 0.2
 
 attr - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/attr.tar.zst - 434c1064fa2027024d0d7ac479ed93b57c3aea08d903cf6f1ace9740972bda4e
 version 2.6.0
