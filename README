@@ -136,7 +136,7 @@ version 3.12
 groff - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/groff.tar.zst - f6b64f2ab19537aba6f801eaba75d8e807d078997fa86ee217f62c04bede6f62
 version 1.23.0
 
-grub-all - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/grub.tar.zst - 603978c8e045703950d40f9def7e34f05cf51d6695a027580c0df335f02ed6cb 
+grub-all - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/grub.tar.zst - d9877f4b778709f8c628e7cca44e1cea16dfe913329f378511f75cf0b2580863 
 version 2.12
 
 gzip - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/gzip.tar.zst - fea04e0fc8a9e2d85fc572fd270716c705e3f418a1bfb211a8f84fcc685cdf24
