@@ -252,7 +252,7 @@ version 4.2.2
 nano - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/nano.tar.zst - 6fc95c6b3c53a854402eceba8bdaa985ea57a8bb28f9f3ca8ab8641e8ae2dbc5
 version 9.1
 
-ncurses - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ncurses.tar.zst - afedd7a9f62fb774160cc33b39a611ff6aee4652823a28547cfe3939f35be13c 
+ncurses - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ncurses.tar.zst - e1b9adfe3471fbc1914e50af3702bbf7a177a86f2b31c7316cb11bf84f498714
 version 6.6
 
 newt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/newt.tar.zst - 0c8411e2ae52615ac4d2e9fc076a1cfceccb140c56b8f81df2328f06952b93a5
