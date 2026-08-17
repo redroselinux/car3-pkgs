@@ -27,10 +27,10 @@ version 1.2.0
 ca-certificates - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/ca-certificates.tar.zst - c58e725be54be4587f5adee74ad89dad54a4fb287f203e999b32659c5445bdd8
 version Thu_May_14_03:12:02_2026_GMT
 
-linux-stable - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - a85bb89f23f45c8d9118d439376c87043f52133a43e8cd8493943b4ea2296ece0
+linux-stable - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - 2a13905687236076519d5bbc4e996c6e5d18a40486c3c1c36a452f72b91466dc
 version 7.1.8
 
-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - 85bb89f23f45c8d9118d439376c87043f52133a43e8cd8493943b4ea2296ece0
+linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - 2a13905687236076519d5bbc4e996c6e5d18a40486c3c1c36a452f72b91466dc
 version 7.1.8
 
 linux-headers - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-headers.tar.zst - d13622753d789db8b97c5c79b5b4bbc8dfc77397acf2c5b8ccfd8e2721ff7855
