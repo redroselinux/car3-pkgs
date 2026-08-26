@@ -318,7 +318,7 @@ dep glibc
 readline - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/readline.tar.zst - fd7ae50896fa77a134db06b929a5ec478bb73d51c467f88eec66491022fcf93a
 version 8.3
 
-redrose-runit - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/redrose-runit.tar.zst - 95bad8f7e30ded2a9151fc2ee4d0b17e91984a3bdacee404b4eb4e3812c32b0f
+redrose-runit - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/runit.tar.zst - bdede738ac699dd97a2bc939009f9ea57f03715a046378bc1c618d9131ad18b7
 version not-yet-versioned
 
 rust - https://github.com/redroselinux/car3-pkgs/releases/download/releases-storage/rust.tar.zst
