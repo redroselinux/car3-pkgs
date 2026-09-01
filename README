@@ -169,6 +169,9 @@ version 704
 libadwaita - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libadwaita.tar.zst - 95a766e489c5ce9692dee721921eafc25ec41b32ffad151a6486b165b064a736
 version 1.5.3
 
+libbsd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libbsd.tar.zst - 5f84f083b387823e513cc3910c8cb69e2194680f6f9371e5588c7ef2124c9b7b
+version 0.12.2
+
 libcap - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libcap.tar.zst - b1bd57175ca62044ed77e041b0c772d80406dcdb416d4b6212aaf3aaa47b12e2
 version 2.70
 
