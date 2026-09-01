@@ -172,6 +172,9 @@ version 1.5.3
 libbsd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libbsd.tar.zst - 5f84f083b387823e513cc3910c8cb69e2194680f6f9371e5588c7ef2124c9b7b
 version 0.12.2
 
+libmd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libmd.tar.zst - 6df449728fa18653f5555f2f5ec4ea587fa5a80b5e8142d274deb7f190d25a4f
+version 1.2.0
+
 libcap - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libcap.tar.zst - b1bd57175ca62044ed77e041b0c772d80406dcdb416d4b6212aaf3aaa47b12e2
 version 2.70
 
