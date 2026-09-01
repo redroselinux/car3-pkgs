@@ -327,6 +327,9 @@ version 1.76.0
 sed - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sed.tar.zst - 6cdac550c67baa7fbc49909ca84d486ff04b0053d014c035f775213b947c1414
 version 4.10
 
+shadow - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/shadow.tar.zst - ad3db0d3a23f51851ef28dc4d4a73d5f96b441afd29bcc997d2fd5b704850cbd
+version 4.19.3
+
 sharutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/sharutils.tar.zst - 50bfb13ee77044dba71efb143d58ef6d358373233ea03d5deca4561a7ca18e5d
 version 4.15.2
 
