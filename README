@@ -200,6 +200,9 @@ libjpeg-turbo - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/li
 version 3.0.1
 dep cmake
 
+libgcrypt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libgcrypt.tar.zst - f02130a3954af730f04e047ad0ff2af58979b291999c923aab2ab3314459b550
+version 1.12.3
+
 libnl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libnl.tar.zst - 8474df066e59863f0f5d9ee4b1cde3f27d3436305c44bd5f1d503bee87002bd1
 version 3.12.0
 
