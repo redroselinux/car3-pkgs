@@ -237,6 +237,9 @@ version 2.4.7
 libunistring - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libunistring.tar.zst - e5930a9d1010fca275bc76101a46824e9f5cc606cf6620a2ec789780dd453e62
 version 1.2
 
+libxcrypt - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/libxcrypt.tar.zst - a0e1bb9efc7d096cacf9158fffa420afe51ec8043a4ec00267e4372de46ae7a9
+version 4.5.2
+
 lvm2 - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/lvm2.tar.zst - f5e1bac1580f2ce23bae609ad50bc6e90cef051e33b84be817bf160794299f8f
 version v2_03_42
 
