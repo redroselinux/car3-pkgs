@@ -375,11 +375,8 @@ version 2.23
 unrtf - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/unrtf.tar.zst - 29aa01ffe1b589fbecc18f259559dc7b6f403018b9441301144f4a476ee61791 
 version 0.21.10
 
-util-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux.tar.zst - acff35f42858aa7d727017c3008f4bb10b8a2e3474488a515af9049f9dfb4906
-version 2.40
-
-util-linux-libs-only - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux-libs-only.tar.zst - 18e5048159bf3a9b3735a7f485e1bd83b3847a8d16560709a83762c7a0d988fc
-version 2.40
+util-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux.tar.zst - 62d84c9a4fa99560a893a3caec526d36ccadb5385106fa3e61fbd440e414429f
+version 2.42.3
 
 wireless-regdb - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/wireless-regdb.tar.zst - 7206f1366ee965f852bd84286b3230caae629936c3163be3f542c93f9b1e6f59
 version 2026.05.30
