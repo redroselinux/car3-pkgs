@@ -407,3 +407,6 @@ version 1.5.7
 
 json-c - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/json-c.tar.zst - fd1c0158f9f21692990544d0b8d8070083d8a8d9c6ea45e82d6b8a1fb938ac71
 version 0.9
+
+kbd - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/kbd.tar.zst - 689ce3c8c0e4a1f0b26bec0b0bdc097a3d1ec6730fb4d0347d0337acc66d10d8
+version 2.9.0
