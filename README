@@ -381,6 +381,9 @@ version 0.21.10
 util-linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux.tar.zst - 323ebae34fa34ad7312d3ca81ebf54ab4aa109e17d26876a4c03ab7671e86310
 version 2.42.3
 
+util-linux-libs-only - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/util-linux-libs-only.tar.zst - bfb444754204c50941190035d4d24101afe92894773e7d1a63e7f6cf2c2569c9
+version 2.42.3
+
 wireless-regdb - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/wireless-regdb.tar.zst - 7206f1366ee965f852bd84286b3230caae629936c3163be3f542c93f9b1e6f59
 version 2026.05.30
 
