@@ -1,4 +1,4 @@
-UPDATE:Non-standard package addition, 1.8.2026:::Added the new Redrose Linux build system, Ancestor
+UPDATE:Non-standard package update, 8.11.2026:::
 
 LISTUP-WARN:This is a test, you can safely ignore it.
 
@@ -33,8 +33,8 @@ version 7.2
 linux - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-stable.tar.zst - f157180019d3572ce2a44719eb36e60d82fdde3ca69f7b6b8ecce7088224d609
 version 7.2
 
-linux-headers - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-headers.tar.zst - 40240c561b8738ff172ce7bb8b06ed80fb875e1bde27da3631a96d88f83d916e
-version 7.2
+linux-headers - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/linux-headers.tar.zst - 83933b7d3c1e11cf0a1e8b534f0170fc0fff105f98b1b5d58ec5e8652edc05b7
+version 7.3.1
 
 binutils - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/binutils.tar.zst - c3e91337c2ec8189f080d7d3dd96f4c7422d3bb0d00f54af60d1ba02c9759fa2
 version 2.46.1
