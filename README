@@ -2,6 +2,9 @@ UPDATE:Non-standard package update, 8.11.2026:::
 
 LISTUP-WARN:This is a test, you can safely ignore it.
 
+rootfs - https://github.com/redroselinux/redroselinux/releases/latest/download/rootfs.tar.zst - 27feb0d5ab2828926b0f88a3cec8fa1630adccc3b1181462e15b1a32b13ff04a
+version alpha-0.7.1
+
 acl - https://github.com/redroselinux/car3-pkgs/raw/refs/heads/main/acl.tar.zst - 81711c7df77d9bb20e2fcd1a46e33f91c29679708340648f4a9232aa564541c3
 version 2.4.0
 dep attr
